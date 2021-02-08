@@ -1,14 +1,14 @@
 // Location Name Variable
 variable "location" {
-    default = 
+    default = "UK South"
 }
 
 // Project Name
-variable "project_name" {
-    default = 
+variable "pn" {
+    default = "example"
 }
 
 // VM Size
 variable "vm_size" {
-    default = 
+    default = "Standard_B1ms"
 }
